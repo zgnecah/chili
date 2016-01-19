@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('nodeweb:server');
+var debug = require('debug')('chiliweb:server');
 var http = require('http');
 
 /**
